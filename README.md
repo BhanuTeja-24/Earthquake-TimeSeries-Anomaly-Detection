@@ -3,7 +3,10 @@
 This is my MSc dissertation project for CMP-L016 Deep Learning Applications at the University of Roehampton. The brief was Project #25 — build a deep learning model to detect earthquakes in seismic time-series data, treat it as an anomaly detection problem, and deploy it as a working web app.
 
 Milestone2:
+
 Milestone3:
+
+
 YT link: https://youtu.be/yZNs8eoHcI0?si=rd_NJb1zkcNANKI_
 
 Bhanu Teja Kunchapu (A00088365)
